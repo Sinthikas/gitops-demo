@@ -1,4 +1,4 @@
 replicaCount: 1
 image:
  repository: nginx
- tag: 2c833e0
+ tag: 07a3d1c
